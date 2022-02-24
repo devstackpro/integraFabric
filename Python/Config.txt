@@ -1,0 +1,7 @@
+skiprows - números de linha a serem ignorados. Se você gosta de começar da linha 6, use -skiprows=6
+
+nrows - quantas linhas ler. Se você gosta de começar com menos linhas para um teste
+
+index_col - qual coluna será usada como índice
+
+usecols - quais colunas devem ser lidas apenas em um intervalo específico de colunas
